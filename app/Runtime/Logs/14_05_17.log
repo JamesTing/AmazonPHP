@@ -1,0 +1,110 @@
+[ 2014-05-17T00:55:26+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T00:55:41+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T00:56:03+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+SQL: PRAGMA table_info (keyword)  [ RunTime:0.000514s ]
+SQL: SELECT * FROM keyword ORDER BY RANDOM() LIMIT 20 [ RunTime:0.057686s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.016393s ]
+INFO: [ view_template ] --END-- [ RunTime:0.016509s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.093118s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093206s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.033758s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.019669s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001196s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001021s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.055934s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.018477s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018569s ]
+
+[ 2014-05-17T00:56:16+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T00:56:57+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T01:56:34+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T01:56:43+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T01:56:55+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+SQL: PRAGMA table_info (keyword)  [ RunTime:0.000550s ]
+SQL: SELECT * FROM keyword ORDER BY RANDOM() LIMIT 20 [ RunTime:0.063930s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.015976s ]
+INFO: [ view_template ] --END-- [ RunTime:0.016103s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.080991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081062s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.034787s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.019796s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000783s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000928s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.056563s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.019277s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019372s ]
+
+[ 2014-05-17T01:56:57+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T02:09:49+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T02:10:55+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T02:11:08+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T02:11:14+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T02:11:27+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T02:11:49+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T02:12:08+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T02:13:10+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T02:13:51+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+SQL: PRAGMA table_info (keyword)  [ RunTime:0.021829s ]
+SQL: SELECT * FROM keyword ORDER BY RANDOM() LIMIT 20 [ RunTime:0.098519s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.029908s ]
+INFO: [ view_template ] --END-- [ RunTime:0.030011s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.157821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.157900s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.021960s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.019515s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000590s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000629s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.042909s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.019921s ]
+INFO: [ view_end ] --END-- [ RunTime:0.020003s ]
+
+[ 2014-05-17T02:13:52+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T02:14:06+08:00 ] 0.0.0.0 /stroller/Jeep-Cherokee-Sport-Stroller--Cobalt_B00HPQTJ18
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000676s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+SQL: PRAGMA table_info (keyword)  [ RunTime:0.000367s ]
+SQL: SELECT * FROM keyword ORDER BY RANDOM() LIMIT 20 [ RunTime:0.071900s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000372s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000434s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.051112s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051181s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000267s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000196s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000132s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000931s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000308s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2014-05-17T02:14:08+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T02:14:08+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon
+[ 2014-05-17T02:14:09+08:00 ] ERR: (ThinkException) 无法加载模块:Favicon

@@ -1,0 +1,99 @@
+*{list-style: none;padding: 0;margin:0;}
+body {font-size: 13px;font-family:Arial,sans-serif;color: #666;line-height: 1.2;}
+a{text-decoration: none;zoom:1; color: #666;}
+a:hover{color: blue;cursor: pointer;text-decoration: underline;}
+.clearfix:after {content:"";display:table;clear:both;}
+.between{margin: 0 0 15px;}
+
+/*** Hearder Style ***/
+#wrap{width: 960px;margin: 0 auto;}
+#logo{text-align: center;text-transform:uppercase; font-size: 36px;color: #333;display: block;padding: 30px 0 0;font-family: Georgia;}
+#logo:hover{text-decoration: none;}
+#navigator{border-top: solid 1px #666;border-bottom: solid 1px #666;margin: 20px 0 15px;}
+#navigator li{float: left;padding: 8px;font-size: 13px;font-weight: bold;text-transform: capitalize;}
+
+/*** List Page Style ***/
+#side{float: left;width: 250px;}
+#side .section {background-color: #f5f5f1;margin-bottom: 10px;padding: 14px 14px;}
+#side dl dt{font-weight: bold;font-size: 16px;margin: 0 0 5px;}
+#side dl dd{line-height: 1.6em;}
+#content{margin-left: 270px;}
+#content h1{font-size: 22px;font-weight: normal;line-height: 1.2;margin: 0 0 10px 0;}
+#content .description{margin: 10px 0;}
+
+.list li{overflow: hidden;}
+.list li .image{display: block;overflow: hidden;margin: 0 auto;text-align: center;background: #fff;}
+.list li .image img{max-height: 100%;max-width: 100%;}
+.list li p{font-size:12px;line-height:1.2em;height: 2.4em;overflow: hidden;margin: 0 0 3px;}
+.list li span{float: left;color: #900;}
+.list li i{float: right;width: 60%;text-align: right;}
+.list li i a{float: right;color: #ddd;width: 100%;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+.list li:hover{background: #f6f6f6;}
+
+.homelist li{float:left;width:210px;padding:10px;border:solid 1px #eee;margin:0 8px 15px 0;}
+.homelist li  .image{height:160px;}
+
+#productlist li{float:left;width:200px;padding:10px;border:solid 1px #eee;margin:0 8px 15px 0;}
+#productlist li  .image{height:160px;}
+
+
+/*** Detail Page Style ***/
+#breadcrumb {margin: 0 0 10px;}
+#breadcrumb li{float: left;}
+#product{float: left;width: 690px;}
+#product h1{font-size: 22px;font-weight: normal;line-height: 1.2;color: #333;}
+#product h2{font-size: 16px;margin: 30px 0 10px;color: #555;}
+#product .picture{display: block;float: left;}
+#product .picture img{max-width: 330px;}
+#product .meta{margin-left: 350px;}
+#product dl{margin-top: 15px;}
+#product dd, #product li, #product p{line-height: 1.35;}
+#product .price{color: #900;font-size:22px;margin: 15px 0;}
+#product #description{overflow: hidden;}
+.btn {
+    display: inline-block;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    padding: .7em 1.1em;
+    text-shadow: 0 1px 1px rgba(0,0,0,.3);
+    border-radius: .5em;
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+.btn:hover {text-decoration: none;}
+.btn:active {position: relative;top: 1px;}
+.orange {
+    color: #fef4e9;
+    border: solid 1px #da7c0c;
+    background: #f78d1d;
+    background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+    background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
+}
+.orange:hover {
+    color: #fff;
+    background: #f47c20;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f88e11), to(#f06015));
+    background: -moz-linear-gradient(top,  #f88e11,  #f06015);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f88e11', endColorstr='#f06015');
+}
+.orange:active {
+    color: #fcd3a5;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f47a20), to(#faa51a));
+    background: -moz-linear-gradient(top,  #f47a20,  #faa51a);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f47a20', endColorstr='#faa51a');
+}
+.gray{color: #777;margin-left: 15px;}
+
+#sidebar{float: right;width: 250px;}
+#related li{width:145px;padding:5px;float:left;margin: 0 15px 25px 0;}
+#related li .image{height: 145px;}
+
+
+/*** Footer Style ***/
+#footer {border-top: #eaeaea solid 1px;margin: 60px auto 10px auto;padding: 8px 0 0;}
+#footer a:link{color: #999;}
+.inline {margin: 0 0 5px;}
+.inline li{float: left;margin-right: 8px;}
+

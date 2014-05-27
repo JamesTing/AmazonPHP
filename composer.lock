@@ -1,0 +1,77 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "1ef0986b50c7c927de076d18701fe338",
+    "packages": [
+        {
+            "name": "exeu/apai-io",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Exeu/apai-io.git",
+                "reference": "8d04eb53b6d8969a351a915ce5c555f5df9002cd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Exeu/apai-io/zipball/8d04eb53b6d8969a351a915ce5c555f5df9002cd",
+                "reference": "8d04eb53b6d8969a351a915ce5c555f5df9002cd",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "ApaiIO": "lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Jan Eichhorn",
+                    "email": "exeu65@googlemail.com",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Dejan Spasic",
+                    "email": "dejan.spasic@bitweise.biz",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Amazon Product Advertising PHP Library",
+            "homepage": "https://github.com/Exeu/apai-io",
+            "keywords": [
+                "ECS",
+                "Product Advertising",
+                "amazon",
+                "products",
+                "rest",
+                "soap"
+            ],
+            "time": "2014-03-16 22:35:08"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "exeu/apai-io": 20
+    },
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
